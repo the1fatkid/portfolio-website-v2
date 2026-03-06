@@ -64,8 +64,8 @@ const projects = [
     {
       id: 'crest-camps',
       title: "Crest Camps",
-      description: "A fully responsive static website built using HTML, Bootstrap, and SASS. Designed for a serene camping business nestled in the woods.",
-      url: "",
+      description: "A fully responsive static website designed for a serene camping business nestled in the woods.",
+      url: "https://crest-camps.netlify.app/",
       image: crestCampsImg,
       techStack: ["HTML", "SASS", "Bootstrap"]
     },

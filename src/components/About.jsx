@@ -37,9 +37,7 @@ export default function About() {
         <div className="left-col">
           <p className="greeting">Hello, I'm Shivika <span>👋</span></p>
           <h2 className="title">I am a Frontend Developer</h2>
-          <p className="bio">I create beautiful, responsive web experiences with React and modern CSS.
-            Passionate about clean code and intuitive design, I love turning ideas
-            into interactive digital solutions.</p>
+          <p className="bio">I create pixel-perfect, responsive web experiences with React, TypeScript, and Tailwind CSS. Passionate about clean architecture and intuitive design, I thrive on turning creative concepts into interactive digital solutions that users love.</p>
           <ul className="tech-logos">
             <li style={{ color: "#61DBFB" }}><FaReact /></li>
             <li style={{ color: "#F0DB4F" }}><IoLogoJavascript /></li>
